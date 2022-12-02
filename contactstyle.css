@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(183, 190, 196);
+}
+nav{
+    background-color: red;
+    margin: 0px 0px;
+    height: 44%;
+
+}
+a{
+    color: white;
+    margin: 0px 0px;
+    padding: 5px 42px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: blue;
+    cursor: pointer;
+}
